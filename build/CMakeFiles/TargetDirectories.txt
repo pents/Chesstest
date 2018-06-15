@@ -1,0 +1,14 @@
+/home/pent/CmakeProject/build/CMakeFiles/install/strip.dir
+/home/pent/CmakeProject/build/CMakeFiles/install/local.dir
+/home/pent/CmakeProject/build/CMakeFiles/NewProject.dir
+/home/pent/CmakeProject/build/CMakeFiles/edit_cache.dir
+/home/pent/CmakeProject/build/CMakeFiles/rebuild_cache.dir
+/home/pent/CmakeProject/build/CMakeFiles/install.dir
+/home/pent/CmakeProject/build/CMakeFiles/list_install_components.dir
+/home/pent/CmakeProject/build/oxygine-framework/CMakeFiles/install/strip.dir
+/home/pent/CmakeProject/build/oxygine-framework/CMakeFiles/install/local.dir
+/home/pent/CmakeProject/build/oxygine-framework/CMakeFiles/oxygine-framework.dir
+/home/pent/CmakeProject/build/oxygine-framework/CMakeFiles/install.dir
+/home/pent/CmakeProject/build/oxygine-framework/CMakeFiles/list_install_components.dir
+/home/pent/CmakeProject/build/oxygine-framework/CMakeFiles/edit_cache.dir
+/home/pent/CmakeProject/build/oxygine-framework/CMakeFiles/rebuild_cache.dir

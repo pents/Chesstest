@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "images" />
+	<atlas>
+		<image file="figures_spr.png" cols="6" rows="2">
+		
+	</atlas>
+</resources>
+
